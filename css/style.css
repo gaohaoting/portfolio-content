@@ -1,0 +1,9 @@
+img{
+    width: 400px;
+}
+.p1{
+    width: 280px;
+    position: relative;
+    display: inline-block;
+    margin: 5px 0px 0px 5px; 
+}
